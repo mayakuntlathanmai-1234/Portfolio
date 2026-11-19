@@ -211,7 +211,7 @@ export const EDUCATION: EducationItem[] = [
     institution: "K L University, Vijayawada",
     degree: "B.Tech, Computer Science and Engineering",
     specialization: "Specialization: Generative AI for Agentic and Multimodal Intelligence",
-    period: "2025 – 2027",
+    period: "2025 – 2028",
     score: "SGPA: 9.01 / 10",
     description: "Pursuing advanced computer science studies with dedicated specialization in Generative AI, agentic architectures, multimodal intelligence, enterprise Java development, and relational database systems."
   },
@@ -353,7 +353,7 @@ export const ACHIEVEMENTS: AchievementItem[] = [
   {
     title: "State-Level Volleyball Player",
     organization: "25th IPSGM (2022–23) & University Volleyball",
-    description: "Represented at state level in the 25th IPSGM competition; Runner-up in University Volleyball Season 3."
+    description: "Represented at state level in the 25th IPSGM competition."
   },
   {
     title: "National Cadet Corps (NCC) Cadet",

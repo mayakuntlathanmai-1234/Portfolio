@@ -164,7 +164,7 @@ export default function AboutSection() {
                     </div>
                     <div className="flex justify-between py-0.5">
                       <span>VALID TILL:</span>
-                      <span className="font-bold text-emerald-700">2027 (Graduation)</span>
+                      <span className="font-bold text-emerald-700">2028 (Graduation)</span>
                     </div>
                   </div>
                 </div>

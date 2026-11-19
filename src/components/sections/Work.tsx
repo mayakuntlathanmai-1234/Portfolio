@@ -10,8 +10,7 @@ export default function WorkSection() {
   const [activeId, setActiveId] = useState<string>(PROJECTS[0].id);
 
   return (
-    <section id="work" className="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto border-t border-[#e9e6e0]">
-      {/* Section Tag */}
+     <section id="projects" className="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto border-t border-[#e9e6e0]">      {/* Section Tag */}
       <div className="font-mono text-xs uppercase tracking-widest text-[#77756f] mb-3">
         04 — Selected work
       </div>
